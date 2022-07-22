@@ -5,6 +5,7 @@ file: /courses/11-328j-urban-design-skills-observing-interpreting-and-representi
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: assn2b.pdf
 uid: 9e7c4200-7951-82a4-aee0-cbea2c5272b0
 ---
 Instructions and guidelines for putting together an open space proposal.
-

@@ -5,6 +5,7 @@ file: /courses/11-328j-urban-design-skills-observing-interpreting-and-representi
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: assn1a.pdf
 uid: edae01c4-0069-0e9a-86bf-3451c106d6e1
 ---
 This reading contains instructions and guidelines for a field report.
-

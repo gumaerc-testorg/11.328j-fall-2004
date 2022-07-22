@@ -5,6 +5,7 @@ file: /courses/11-328j-urban-design-skills-observing-interpreting-and-representi
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: assn3a.pdf
 uid: 2b79226d-3119-ef13-7061-26ab285c5cab
 ---
 Instructions and guidelines for a research project.
-
