@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides links to external web sites on urban design, measurements,
+  and conversions.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: 797be95d-5c75-92eb-695a-7010808622a5
 ---
