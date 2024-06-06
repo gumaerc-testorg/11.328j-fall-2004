@@ -2,6 +2,7 @@
 content_type: resource
 description: Instructions and guidelines for developing a detailed design proposal.
 file: /courses/11-328j-urban-design-skills-observing-interpreting-and-representing-the-city-fall-2004/402bb27fb60026eb206aab07c8aaa9d8_assn2c.pdf
+file_size: 134143
 file_type: application/pdf
 learning_resource_types:
 - Assignments
