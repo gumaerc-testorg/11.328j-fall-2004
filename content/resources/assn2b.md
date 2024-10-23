@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Instructions and guidelines for putting together an open space proposal.
-file: /courses/11-328j-urban-design-skills-observing-interpreting-and-representing-the-city-fall-2004/9e7c4200795182a4aee0cbea2c5272b0_assn2b.pdf
+file: /ol-ocw-studio-app/courses/11-328j-urban-design-skills-observing-interpreting-and-representing-the-city-fall-2004/9e7c4200795182a4aee0cbea2c5272b0_assn2b.pdf
 file_size: 120132
 file_type: application/pdf
 learning_resource_types:
