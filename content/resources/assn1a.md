@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This reading contains instructions and guidelines for a field report.
-file: /ol-ocw-studio-app/courses/11-328j-urban-design-skills-observing-interpreting-and-representing-the-city-fall-2004/edae01c400690e9a86bf3451c106d6e1_assn1a.pdf
+file: /courses/11-328j-urban-design-skills-observing-interpreting-and-representing-the-city-fall-2004/edae01c400690e9a86bf3451c106d6e1_assn1a.pdf
 file_size: 86982
 file_type: application/pdf
 learning_resource_types:
